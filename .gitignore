@@ -1,0 +1,21 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Environments
+.env
+
+# Editor/IDE
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.swp
+
+# Logs
+logs/
+
+# Dependency directories
+venv/
+env/

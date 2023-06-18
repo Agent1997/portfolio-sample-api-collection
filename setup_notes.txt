@@ -1,0 +1,6 @@
+1. Create a venv and activate it
+> python -m venv venv 
+> Activation will depend on your OS (see: https://docs.python.org/3/library/venv.html)
+
+2. Install fast api
+> pip install "fastapi[all]"
